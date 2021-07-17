@@ -1,2 +1,2 @@
-# IT-job-post-analysis-based-on-eJobs.ro
+# IT-job-post-analysis-based-on-eJobs.ro 📊💻💼📈
 bachelor thesis project 
